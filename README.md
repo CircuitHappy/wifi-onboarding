@@ -23,7 +23,7 @@ CD in to wifi-onboarding
 checkout the 'unstable' branch
 
 Type:
-```go
+```bash
 go get github.com/gin-gonic/gin
 go get github.com/nextthingco/gonnman
 go build
