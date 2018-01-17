@@ -21,7 +21,7 @@ Clone this repo to your disk.
 
 Install Go if you don't have it
 
-CD in to wifi-onboarding
+`cd` in to wifi-onboarding
 
 checkout the 'unstable' branch
 
