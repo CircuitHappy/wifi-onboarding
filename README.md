@@ -16,6 +16,18 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 ---
+#### SETUP
+Clone this repo to your disk.
+Install Go if you don't have it
+CD in to wifi-onboarding
+checkout the 'unstable' branch
+Type:
+go get github.com/gin-gonic/gin
+go get github.com/nextthingco/gonnman
+go build
+
+You should now be able to type 'gadget build' and build the wifi-onboarding container
+
 #### API
 
 Method | Path | Use
