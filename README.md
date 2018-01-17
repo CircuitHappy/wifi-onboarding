@@ -32,7 +32,7 @@ go get github.com/nextthingco/gonnman
 go build
 ```
 
-You should now be able to type 'gadget build' and build the wifi-onboarding container
+You should now be able to type `gadget build` and build the wifi-onboarding container
 
 #### API
 
